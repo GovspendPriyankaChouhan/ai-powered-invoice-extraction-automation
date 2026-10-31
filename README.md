@@ -58,3 +58,11 @@ The n8n workflow has been implemented and tested. This repository documents the 
 ## Disclaimer
 
 This is an independent portfolio presentation. It does not publish confidential company workflows, customer information, or production credentials.
+
+## Project Documentation
+
+Detailed documentation for this project:
+
+- [Workflow Architecture](docs/architecture.md)
+- [Validation and Testing](docs/validation-and-testing.md)
+- [Privacy and Security](docs/privacy-and-security.md)
